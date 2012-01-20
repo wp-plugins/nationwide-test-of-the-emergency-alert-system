@@ -6,11 +6,11 @@ Requires at least: 2.8
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-Nationwide Test of the Emergency Alert System created by Shelby Tactical.
+Nationwide Test of the Emergency Alert System from http://fema.gov. The plugin widget has been created by Shelby Tactical.
 
 == Description ==
 
-Nationwide Test of the Emergency Alert System is plugin that displays the Nationwide Test of the Emergency Alert System in a widget. 
+Nationwide Test of the Emergency Alert System is plugin that displays the Nationwide Test of the Emergency Alert System from http://fema.gov as a WordPress widget. 
 
 The widget is displaying the alerts from http://www.fema.gov.
 
@@ -35,7 +35,7 @@ Go to Appearance > Widgets and add the plugin to the sidebar.
 
 = My question is not answered here, where can I contact you? =
 
-You can contact us here...
+You can contact us [here](mailto:plugins@shelbytactical.com)
 
 == Screenshots ==
 
