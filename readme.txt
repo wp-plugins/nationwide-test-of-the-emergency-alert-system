@@ -4,7 +4,7 @@ Donate link: http://shelbytactical.com/
 Tags: widget, plugin, sidebar, embed, widgets, wordpress, fema
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Nationwide Test of the Emergency Alert System from http://fema.gov. The plugin widget has been created by Shelby Tactical.
 
@@ -43,7 +43,12 @@ You can contact us [here](mailto:plugins@shelbytactical.com)
 
 == Changelog ==
 
+= 1.0.1 =
+
+* WordPress plugin standards update.
+
 = 1.0 =
+
 * First official launch of the plugin.
 
 == Upgrade Notice ==
