@@ -4,7 +4,7 @@
 	Plugin URI: http://shelbytactical.com
 	Description: The Nationwide Test of the Emergency Alert System from the U.S. Department of Homeland Security.
 	Version: 1.0
-	Author: Josten Moore
+	Author: Shelby Tactical
 	Author URI: http://shelbytactical.com
 	*/
 	

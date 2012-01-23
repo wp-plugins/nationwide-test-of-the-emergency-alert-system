@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: ShelbyTactical, telinit5
+Contributors: ShelbyTactical
 Donate link: http://shelbytactical.com/
 Tags: widget, plugin, sidebar, embed, widgets, wordpress, fema
 Requires at least: 2.8
